@@ -13,3 +13,5 @@ for(const h1 of allHeadings){
 
 const bugTitle = Document.getElementByID('bug-title');
 bugTitle.innerText = 'My name is Sheikh';
+
+//hello
